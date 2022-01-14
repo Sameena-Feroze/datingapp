@@ -1,0 +1,47 @@
+ul li{
+    list-style-type: none;
+    color: white;
+    
+}
+.div1{
+    line-height: 1.5cm;
+    width: 20%;
+    height: fit-content;
+    background-color: rgb(214, 138, 202)
+}
+.div2{
+    position: absolute;
+    left: 245px;
+    top:10px;
+    border-width: 20px;
+    float: left;
+    width: 55%;
+    height: fit-content;
+    border-style: solid;
+    border-color:rgb(214, 138, 202) ;
+    
+}
+.div2_1,.div2_2,.div2_3,.div2_4{
+   
+    border-style:solid;
+    border-color:rgb(214, 138, 202) ;
+    background-color: thistle;
+}
+
+.div3{
+    position:absolute;
+    right: 0px;
+    top: 10px;
+    width: 20%;
+    height: 100%;
+    border-style: solid;
+    border-color:rgb(214, 138, 202) ;
+    border-width: 20px;
+    
+}
+#i{
+    display: inline-flexbox;
+    
+    position: relative;
+    left: 30px;
+}
